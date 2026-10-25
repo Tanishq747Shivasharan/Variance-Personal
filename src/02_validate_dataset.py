@@ -58,3 +58,16 @@ print("Non-positive estimates:", (estimated <= 0).sum())
 print("Non-positive actual durations:", (actual <= 0).sum())
 
 print("\nValidation script completed.")
+
+# Calculate schedule variance for each project.
+schedule_variance = actual - estimated
+
+# Count projects whose actual duration exceeds their estimated duration.
+delayed_projects = (schedule_variance > 0).sum()
+
+print(f"Total number of delayed projects: {delayed_projects}")
+
+# Calculate the delay percentage --> Delay Percentage = (Delayed Projects/Total projects) * 100;
+total_projects = main_data.shape[0]
+delay_percentage = (delayed_projects/total_projects)*100
+print(f"Delay Percentage = {delay_percentage:.2f}%")
