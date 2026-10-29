@@ -1,0 +1,14 @@
+Factor,Total_projects_analyzed,Projects_with_factor_value,Missing_factor_values,Mapping_status
+Organization type,120,120,0,Partially mapped; unmapped codes checked
+Size of organization,120,120,0,Partially mapped; unmapped codes checked
+Size of organization,120,120,0,Unmapped code detected: 17
+Size of IT department,120,120,0,Partially mapped; unmapped codes checked
+Size of IT department,120,120,0,Unmapped code detected: 11
+Size of IT department,120,120,0,Unmapped code detected: 12
+Development type,120,120,0,Partially mapped; unmapped codes checked
+Application domain,120,120,0,Partially mapped; unmapped codes checked
+Application domain,120,120,0,Unmapped code detected: 3
+Project manager experience,120,119,1,Partially mapped; unmapped codes checked
+Product complexity,120,117,3,Partially mapped; unmapped codes checked
+Development environment adequacy,120,119,1,Unverified
+Degree of risk management,120,119,1,Unverified

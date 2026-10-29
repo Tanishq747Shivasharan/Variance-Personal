@@ -1,0 +1,56 @@
+Factor,Category,Total_projects,Delayed_projects,Mean_schedule_variance,Median_schedule_variance,Mean_schedule_variance_pct,Median_schedule_variance_pct,Ahead_of_schedule_projects,On_schedule_projects,Delay_rate_pct,Small_group_warning
+Organization type,University,8,8,10.375,3.5,251.25,175.0,0,0,100.0,True
+Organization type,Public Software company,4,4,3.0,1.5,87.5,50.0,0,0,100.0,True
+Organization type,Corporate IT department,2,2,7.5,7.5,187.5,187.5,0,0,100.0,True
+Organization type,Federal Ministry,6,5,4.666666666666667,2.5,93.88888888888887,41.666666666666664,1,0,83.33333333333334,True
+Organization type,Freelancer,5,4,2.2,1.0,38.57142857142857,25.0,0,1,80.0,True
+Organization type,Private Software company,65,51,4.615384615384615,2.5,80.37545787545787,66.66666666666666,4,10,78.46153846153847,False
+Organization type,Federal directorates,26,20,4.038461538461538,2.0,79.67032967032968,50.0,0,6,76.92307692307693,False
+Organization type,Telecommunication company,4,3,2.625,2.5,22.36111111111111,26.666666666666664,1,0,75.0,True
+Size of organization,151–200 employees,5,5,6.6,4.0,104.88888888888889,33.33333333333333,0,0,100.0,True
+Size of organization,41–50 employees,3,3,8.333333333333334,6.0,140.47619047619048,150.0,0,0,100.0,True
+Size of organization,31–40 employees,2,2,4.5,4.5,55.0,55.0,0,0,100.0,True
+Size of organization,101–150 employees,1,1,1.0,1.0,33.33333333333333,33.33333333333333,0,0,100.0,True
+Size of organization,More than 500 employees,30,28,4.55,2.5,100.04761904761905,73.21428571428572,1,1,93.33333333333333,False
+Size of organization,Unmapped code: 17,8,7,9.75,4.5,130.35714285714286,71.42857142857143,0,1,87.5,True
+Size of organization,6–10 employees,12,9,2.9166666666666665,2.5,58.720238095238095,56.25,1,2,75.0,False
+Size of organization,51–100 employees,8,6,2.125,3.0,55.83333333333333,50.0,1,1,75.0,True
+Size of organization,1–5 employees,15,11,4.566666666666666,2.0,87.55555555555556,75.0,1,3,73.33333333333333,False
+Size of organization,21–30 employees,11,8,3.590909090909091,2.0,56.81818181818182,66.66666666666666,1,2,72.72727272727273,False
+Size of organization,11–20 employees,22,15,4.454545454545454,2.0,67.57575757575756,41.666666666666664,0,7,68.18181818181817,False
+Size of organization,351–400 employees,3,2,8.0,3.0,388.8888888888889,100.0,1,0,66.66666666666666,True
+Size of IT department,11–15 employees,7,7,10.142857142857142,6.0,161.42857142857142,100.0,0,0,100.0,True
+Size of IT department,16–20 employees,4,4,13.25,13.5,123.33333333333333,130.0,0,0,100.0,True
+Size of IT department,26–30 employees,3,3,4.0,3.0,86.66666666666667,60.0,0,0,100.0,True
+Size of IT department,31–35 employees,2,2,2.5,2.5,53.57142857142857,53.57142857142857,0,0,100.0,True
+Size of IT department,36–40 employees,2,2,2.5,2.5,116.66666666666666,116.66666666666666,0,0,100.0,True
+Size of IT department,21–25 employees,1,1,6.0,6.0,66.66666666666666,66.66666666666666,0,0,100.0,True
+Size of IT department,41–45 employees,1,1,6.0,6.0,150.0,150.0,0,0,100.0,True
+Size of IT department,Unmapped code: 11,20,18,3.225,2.0,88.73809523809524,73.21428571428572,1,1,90.0,False
+Size of IT department,Unmapped code: 12,8,7,9.75,4.5,130.35714285714286,71.42857142857143,0,1,87.5,True
+Size of IT department,6–10 employees,37,30,4.04054054054054,3.0,74.25782925782926,66.66666666666666,3,4,81.08108108108108,False
+Size of IT department,1–5 employees,35,22,3.2714285714285714,1.0,82.02380952380953,33.33333333333333,2,11,62.857142857142854,False
+Development type,Customization of imported software,11,11,3.1818181818181817,2.0,107.35930735930737,100.0,0,0,100.0,False
+Development type,Upgrading existing software,9,9,8.0,6.0,165.68783068783068,100.0,0,0,100.0,True
+Development type,New software development,90,70,4.766666666666667,2.25,84.06922398589066,53.57142857142857,6,14,77.77777777777779,False
+Development type,Modifying existing software,10,7,2.85,2.5,63.80952380952381,50.0,0,3,70.0,False
+Application domain,Web applications,10,9,2.7,2.0,66.83333333333333,55.0,0,1,90.0,False
+Application domain,Financial and managerial,18,16,2.5833333333333335,3.0,80.68342151675485,50.0,1,1,88.88888888888889,False
+Application domain,ERP,34,30,5.088235294117647,3.5,101.24649859943978,100.0,1,3,88.23529411764706,False
+Application domain,Bespoke applications,38,30,6.552631578947368,3.0,111.35025062656642,50.0,3,5,78.94736842105263,False
+Application domain,Unmapped code: 3,6,4,1.6666666666666667,1.0,44.444444444444436,50.0,0,2,66.66666666666666,True
+Application domain,Banking systems,14,8,4.214285714285714,2.0,58.248299319727884,41.666666666666664,1,5,57.14285714285714,False
+Project manager experience,No previous experience,10,9,3.9,3.0,97.97619047619048,60.714285714285715,0,1,90.0,False
+Project manager experience,Previous experience in non-similar software systems,27,24,7.462962962962963,5.0,134.74426807760142,75.0,0,3,88.88888888888889,False
+Project manager experience,Previous experience in similar software systems,82,63,3.8780487804878048,2.0,75.9180216802168,53.57142857142857,6,13,76.82926829268293,False
+Product complexity,Clear and simple,34,28,5.6911764705882355,2.5,94.36274509803921,50.0,2,4,82.35294117647058,False
+Product complexity,Clear with some complexity,55,45,3.5727272727272728,2.0,77.04112554112554,62.5,3,7,81.81818181818183,False
+Product complexity,Very complex algorithms and difficult to understand,14,11,4.285714285714286,3.0,130.55555555555557,58.33333333333333,0,3,78.57142857142857,False
+Product complexity,Complex,14,10,6.535714285714286,3.0,96.10544217687074,75.0,1,3,71.42857142857143,False
+Development environment adequacy,Code 4 (mapping unverified),2,2,13.5,13.5,207.14285714285714,207.14285714285714,0,0,100.0,True
+Development environment adequacy,Code 2 (mapping unverified),15,14,4.6,5.0,75.33333333333333,75.0,1,0,93.33333333333333,False
+Development environment adequacy,Code 1 (mapping unverified),99,78,4.257575757575758,2.0,88.7425845759179,50.0,4,17,78.78787878787878,False
+Development environment adequacy,Code 3 (mapping unverified),3,2,13.666666666666666,19.0,171.11111111111111,200.0,1,0,66.66666666666666,True
+Degree of risk management,Code 3 (mapping unverified),78,67,5.794871794871795,3.0,106.8030118030118,66.66666666666666,4,7,85.8974358974359,False
+Degree of risk management,Code 1 (mapping unverified),26,19,2.769230769230769,2.0,61.53846153846154,50.0,0,7,73.07692307692307,False
+Degree of risk management,Code 2 (mapping unverified),15,10,2.3,2.0,60.833333333333336,50.0,2,3,66.66666666666666,False
